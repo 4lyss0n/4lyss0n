@@ -1,7 +1,4 @@
 # 4lyss0n
-<style>
-    div {
-        background-color:red;
-    }
-</style>
-<div>test</div>
+
+
+<div style="background-color:#f0f;">test</div>
